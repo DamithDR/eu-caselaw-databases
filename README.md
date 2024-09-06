@@ -1,3 +1,7 @@
+📝 Note : 
+📌 It is worth noting the licence around data usage, as the licences may change, users are advised to make their own inquiries about usage rights in each data source.
+📌 Scraping possible means it is technically possible, this does not mean that the websites legally allow scraping or bulk downloading using scripts. Please contact the relevant data sources for this information.
+
 # European Case Law Databases 🌐
 | Country        | Languages | Resource                                                                                                     | Scraping                | Annotation                                                                                      | In text                                                                                                                                                                                          | Anonymisation                                                                                   | Format          |
 |----------------|--|--------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------|
